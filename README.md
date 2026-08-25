@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 
-<h3 align="center">
-Computer Science Engineering Student • Java • DSA • Full-Stack Development
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditiis07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <b>Computer Science Engineering Student</b> • Java • DSA • Full-Stack Development
 </p>
 
 <p align="center">
   <a href="https://github.com/aditiis07">
-    <img src="https://img.shields.io/github/followers/aditiis07?label=Followers&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=aditiis07&label=Profile%20Views&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/aditiis07?tab=repositories">
-    <img src="https://img.shields.io/github/stars/aditiis07?label=Stars&style=for-the-badge"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+%7C+DSA+%7C+Full-Stack+Development;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%F0%9F%92%BB" alt="Typing SVG"/>
 </p>
 
 ---
@@ -23,116 +20,152 @@ Computer Science Engineering Student • Java • DSA • Full-Stack Development
 
 🎓 I'm a **3rd-year B.E. Computer Science Engineering student at Chitkara University**.
 
-💻 I enjoy building software, solving problems and learning new technologies.
+💻 I enjoy **building projects, solving programming problems, and learning new technologies**.
 
 🧠 Currently focused on **Data Structures & Algorithms using Java**.
 
-🌐 Exploring **Full-Stack Development** and modern web technologies.
+🌐 Exploring **Full-Stack Development**.
 
-🚀 Interested in building projects that solve real-world problems.
+🚀 I like turning ideas into practical projects and participating in hackathons.
 
 🏆 **1st Runner-Up — BuildX Hackathon 2026**
 
-📚 Current CGPA: **8.91**
-
-🌱 My goal is to become a strong software developer by consistently learning and building.
+📚 **CGPA: 8.91**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
-<img src="https://skillicons.dev/icons?i=sql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sql" width="50"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
 </p>
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50"/>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 What I'm Currently Working On
+
+🔹 Strengthening **Data Structures & Algorithms in Java**
+
+🔹 Solving problems on **LeetCode**
+
+🔹 Improving **Java Collections & problem-solving**
+
+🔹 Building **Full-Stack projects**
+
+🔹 Participating in **hackathons and coding projects**
+
+---
+
+## 💻 Featured Projects
+
+### 🏆 CampusCare
+
+A project developed with **Team Nexora** for BuildX Hackathon 2026.
+
+🏅 **1st Runner-Up**
+
+**Focus:** Practical software solution • Team collaboration • Hackathon development
+
+---
+
+### 🩺 Mediflux
+
+**Offline AI Health Risk Prediction System**
+
+A machine-learning based project designed to predict health risks and provide offline AI-powered explanations.
+
+**Tech:** Python • Flask • Scikit-learn • Random Forest • Gradient Boosting • OCR • Ollama
+
+---
+
+### 🏠 Home Automation
+
+An IoT-based home automation project using sensors and microcontrollers.
+
+**Tech:** ESP32/ESP8266 • DHT22 • LDR • Ultrasonic Sensor • Servo • Relay
+
+---
+
+### 📝 To-Do List
+
+A simple productivity application for creating and managing daily tasks.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 🏆 Achievements
+
+🏅 **1st Runner-Up — BuildX Hackathon 2026**
+
+📚 **8.91 CGPA**
+
+💻 **Regular DSA & LeetCode Practice**
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science Engineering**  
+Chitkara University  
+**2024 – 2028**
+
+---
+
+## 🐍 GitHub Contribution
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Java-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-yellow?style=for-the-badge"/>
-
+  <img src="https://raw.githubusercontent.com/aditiis07/aditiis07/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
-### 📌 DSA Journey
+---
 
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Hashing
-  ↓
-Stacks & Queues
-  ↓
-Linked Lists
-  ↓
-Trees
-  ↓
-Graphs
-  ↓
-Advanced DSA
-```
-## 💻 Coding Profiles
+## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/aditiis07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://www.linkedin.com/in/aditioli/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
+---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-## 🔥 GitHub Streak
+<h3 align="center">
+✨ Learn • Build • Solve • Grow ✨
+</h3>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aditiis07&theme=tokyonight&hide_border=true"/>
-
+<i>"I don't need to know what they're doing. I need to know what I can solve."</i>
 </p>
