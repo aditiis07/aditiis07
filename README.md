@@ -186,16 +186,18 @@ DSA with Java
 
 </p>
 
+
 <hr>
 
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditi's GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditiis07&theme=tokyonight" alt="GitHub Profile Summary">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&theme=tokyonight&hide_border=true" alt="Aditi's Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditiis07&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditiis07&theme=tokyonight" alt="Languages">
 </p>
 
 <hr>
@@ -203,9 +205,8 @@ DSA with Java
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiis07&theme=tokyo-night&hide_border=true&area=true" alt="Aditi's Contribution Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiis07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity">
 </p>
-
 <h2>🌐 Let's Connect</h2>
 
 <p align="center">
