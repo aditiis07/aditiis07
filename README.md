@@ -169,11 +169,11 @@ DSA with Java
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&hide_border=true&theme=tokyonight&title_color=7C5CFC&icon_color=7C5CFC" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditi's GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&hide_border=true&theme=tokyonight&title_color=7C5CFC" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&theme=tokyonight&hide_border=true" alt="Aditi's Top Languages"/>
 </p>
 
 ---
