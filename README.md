@@ -202,10 +202,6 @@ DSA with Java
 
 <hr>
 
-<hr>
-
-
-
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
