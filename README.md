@@ -66,20 +66,15 @@ I'm a Computer Science Engineering student who enjoys building things, solving p
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 <h3>🏆 CampusCare</h3>
 
 <p>
-A project developed with <b>Team Nexora</b> for the <b>BuildX Hackathon 2026</b>.
+Developed with Team Nexora for the BuildX Hackathon 2026.
 </p>
 
 <p>🏅 <b>1st Runner-Up</b></p>
-
-<p>
-Practical software development • Team collaboration • Hackathon
-</p>
 
 </td>
 
@@ -88,31 +83,21 @@ Practical software development • Team collaboration • Hackathon
 <h3>🤝 Milaap</h3>
 
 <p>
-A full-stack student innovation platform designed around <b>events, teams, submissions, skills and student collaboration</b>.
-</p>
-
-<p>
-Full-Stack Development • Student Collaboration • Web Development
+Full-stack student innovation platform focused on events,
+teams, submissions, skills and collaboration.
 </p>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 <h3>🩺 Mediflux</h3>
 
-<p><b>Offline AI Health Risk Prediction System</b></p>
-
 <p>
-A machine-learning project for health-risk prediction with offline AI-powered explanations.
-</p>
-
-<p>
-<b>Python • Flask • Scikit-learn • OCR • Ollama</b>
+Offline AI health-risk prediction project built with Python,
+Flask and machine-learning technologies.
 </p>
 
 </td>
@@ -122,18 +107,13 @@ A machine-learning project for health-risk prediction with offline AI-powered ex
 <h3>🏠 Home Automation</h3>
 
 <p>
-An IoT project using sensors and microcontrollers to automate household functions.
-</p>
-
-<p>
-<b>ESP32/ESP8266 • DHT22 • LDR • Ultrasonic • Servo • Relay</b>
+IoT project using sensors and microcontrollers to automate
+household functions.
 </p>
 
 </td>
-
 </tr>
 </table>
-
 <hr>
 
 <h2>🧠 What I'm Working On</h2>
