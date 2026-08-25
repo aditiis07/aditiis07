@@ -4,11 +4,7 @@
   <b>Computer Science Engineering Student</b> • Java • DSA • Full-Stack Development
 </p>
 
-<p align="center">
-  <a href="https://github.com/aditiis07">
-    <img src="https://komarev.com/ghpvc/?username=aditiis07&label=Profile%20Views&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+%7C+DSA+%7C+Full-Stack+Development;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%F0%9F%92%BB" alt="Typing SVG"/>
