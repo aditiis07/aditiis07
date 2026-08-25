@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Java & DSA | Full-Stack Developer
+Computer Science Engineering Student • Java • DSA • Full-Stack Development
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditiis07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/aditiis07">
-    <img src="https://komarev.com/ghpvc/?username=aditiis07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/aditiis07?label=Followers&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/aditiis07?tab=repositories">
+    <img src="https://img.shields.io/github/stars/aditiis07?label=Stars&style=for-the-badge"/>
   </a>
 </p>
 
@@ -14,94 +21,85 @@ Computer Science Engineering Student | Java & DSA | Full-Stack Developer
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year B.E. Computer Science Engineering student at **Chitkara University**
+🎓 I'm a **3rd-year B.E. Computer Science Engineering student at Chitkara University**.
 
-💻 Passionate about **Java, Data Structures & Algorithms and Software Development**
+💻 I enjoy building software, solving problems and learning new technologies.
 
-🧠 Currently strengthening my **DSA and problem-solving skills**
+🧠 Currently focused on **Data Structures & Algorithms using Java**.
 
-🌐 Exploring **Full-Stack Development**
+🌐 Exploring **Full-Stack Development** and modern web technologies.
 
-🚀 I enjoy building practical projects and participating in hackathons
+🚀 Interested in building projects that solve real-world problems.
 
 🏆 **1st Runner-Up — BuildX Hackathon 2026**
 
-📚 CGPA: **8.91**
+📚 Current CGPA: **8.91**
 
-🌱 Always learning. Always building. Always improving.
+🌱 My goal is to become a strong software developer by consistently learning and building.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
+### 👩‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+<img src="https://skillicons.dev/icons?i=sql" width="55"/>
 </p>
 
----
+### 🌐 Web Development
 
-## 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+</p>
 
-### 🏆 BuildX Hackathon — CampusCare
+### 🧰 Tools & Technologies
 
-A practical project developed during **BuildX Hackathon 2026** with Team Nexora.
-
-🏅 **1st Runner-Up**
-
----
-
-### 🩺 Mediflux
-
-**Offline AI Health Risk Prediction System**
-
-A machine-learning based application designed to predict health risks using trained models while supporting offline AI-powered explanations.
-
-**Tech:** Python • Flask • Scikit-learn • Random Forest • Gradient Boosting • OCR
-
----
-
-### 🏠 Home Automation
-
-An IoT-based home automation project using sensors and microcontrollers to automate household functions.
-
-**Tech:** ESP32/ESP8266 • DHT22 • LDR • Ultrasonic Sensor • Servo • Relay
-
----
-
-### 📝 To-Do List
-
-A simple productivity application for creating and managing daily tasks.
-
-**Tech:** HTML • CSS • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+</p>
 
 ---
 
 ## 🧠 Currently Learning
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Java-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-yellow?style=for-the-badge"/>
+
+</p>
+
+### 📌 DSA Journey
+
 ```text
-DSA with Java
-     ↓
-Arrays & Strings
-     ↓
+Arrays
+  ↓
+Strings
+  ↓
 Hashing
-     ↓
+  ↓
 Stacks & Queues
-     ↓
+  ↓
+Linked Lists
+  ↓
 Trees
-     ↓
+  ↓
 Graphs
-     ↓
-Advanced Problem Solving
+  ↓
+Advanced DSA
