@@ -167,5 +167,5 @@ Chitkara University
 </h3>
 
 <p align="center">
-<i>"I don't need to know what they're doing. I need to know what I can solve."</i>
+<i>"Build with purpose. Learn with curiosity. Grow with every challenge."</i>
 </p>
