@@ -1,6 +1,8 @@
-# Hi, I'm Aditi 👋
+<h1 align="center">Hi, I'm Aditi 👋</h1>
 
-### 💻 Computer Science Engineering Student | Java & DSA | Full-Stack Developer
+<h3 align="center">
+  Computer Science Engineering Student | Java & DSA | Full-Stack Developer
+</h3>
 
 I'm a 3rd-year Computer Science Engineering student at **Chitkara University**, passionate about building practical projects, solving problems with **DSA**, and continuously improving my development skills.
 
