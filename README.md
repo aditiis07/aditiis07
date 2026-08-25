@@ -142,19 +142,21 @@ DSA with Java
 
 <p>🔹 Learning through <b>hackathons & projects</b></p>
 
+
+
 <hr>
 
 <h2>🏅 Highlights</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/BuildX_Hackathon-1st_Runner--Up-7C5CFC?style=for-the-badge" alt="BuildX Hackathon">
+<img src="https://img.shields.io/badge/🏆_BuildX_Hackathon-1st_Runner--Up-7C5CFC?style=for-the-badge" alt="BuildX Hackathon">
 
-<img src="https://img.shields.io/badge/CGPA-8.91-5B8DEF?style=for-the-badge" alt="CGPA">
+<img src="https://img.shields.io/badge/📚_CGPA-8.91-5B8DEF?style=for-the-badge" alt="CGPA">
 
-<img src="https://img.shields.io/badge/Java-DSA-6C63FF?style=for-the-badge&logo=java&logoColor=white" alt="Java DSA">
+<img src="https://img.shields.io/badge/💻_Focus-Java_&_DSA-6C63FF?style=for-the-badge" alt="Java and DSA">
 
-<img src="https://img.shields.io/badge/Full--Stack-Development-8A63D2?style=for-the-badge" alt="Full Stack Development">
+<img src="https://img.shields.io/badge/🌐_Full--Stack-Development-8A63D2?style=for-the-badge" alt="Full Stack Development">
 
 </p>
 
