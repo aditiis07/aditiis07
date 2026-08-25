@@ -191,11 +191,11 @@ DSA with Java
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditi's GitHub Stats">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&theme=tokyonight&hide_border=true" alt="Aditi's Top Languages">
 </p>
 
 <hr>
@@ -203,10 +203,8 @@ DSA with Java
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiis07&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiis07&theme=tokyo-night&hide_border=true&area=true" alt="Aditi's Contribution Activity">
 </p>
-
-<hr>
 
 <h2>🌐 Let's Connect</h2>
 
