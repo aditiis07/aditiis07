@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+Full-Stack+Development;Turning+Ideas+Into+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" alt="Typing Animation">
 </p>
 
-<p align="center">
-  <a href="https://github.com/aditiis07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/aditioli/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 <hr>
 
