@@ -204,12 +204,14 @@ DSA with Java
 
 <hr>
 
+
+
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aditiis07&theme=tokyo-night&hide_border=true&area=true"
-    alt="Aditi's GitHub Contribution Activity"
+    src="https://github.com/aditiis07/aditiis07/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Activity"
     width="95%"
   >
 </p>
