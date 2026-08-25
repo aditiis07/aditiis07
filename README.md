@@ -103,6 +103,7 @@ Trees
 Graphs
   ↓
 Advanced DSA
+```
 ## 💻 Coding Profiles
 
 <p align="center">
