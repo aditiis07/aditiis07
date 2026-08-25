@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+Full-Stack+Development;Turning+Ideas+Into+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" alt="Typing Animation">
+  <b>Computer Science Engineering Student | Java | DSA | Full-Stack Development</b>
 </p>
 
 <p align="center">
@@ -18,21 +18,15 @@
 <h2>✦ About Me</h2>
 
 <blockquote>
-  I'm a Computer Science Engineering student who enjoys building things, solving problems, and figuring out how technology works.
+I'm a Computer Science Engineering student who enjoys building things, solving problems, and figuring out how technology works.
 </blockquote>
 
 <p>🎓 <b>B.E. Computer Science Engineering</b> — Chitkara University</p>
-
 <p>💻 Currently focused on <b>Java & Data Structures and Algorithms</b></p>
-
 <p>🌐 Exploring <b>Full-Stack Development</b></p>
-
 <p>🚀 Interested in building practical, real-world projects</p>
-
 <p>🏆 <b>1st Runner-Up — BuildX Hackathon 2026</b></p>
-
 <p>📚 <b>CGPA: 8.91</b></p>
-
 <p>🌱 Learning → Building → Breaking → Fixing → Improving</p>
 
 <hr>
@@ -42,30 +36,30 @@
 <h3>💻 Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java">
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python">
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++">
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
+  <b>Java</b> •
+  <b>Python</b> •
+  <b>C++</b> •
+  <b>JavaScript</b> •
+  <b>SQL</b>
 </p>
 
 <h3>🌐 Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML">
-  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS">
-  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
+  <b>HTML</b> •
+  <b>CSS</b> •
+  <b>React</b> •
+  <b>Node.js</b> •
+  <b>MongoDB</b>
 </p>
 
 <h3>🛠️ Tools</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
-  <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman">
+  <b>Git</b> •
+  <b>GitHub</b> •
+  <b>VS Code</b> •
+  <b>Postman</b>
 </p>
 
 <hr>
@@ -161,13 +155,9 @@ DSA with Java
 <h3>🎯 Current Focus</h3>
 
 <p>🔹 Strengthening problem-solving with <b>Java</b></p>
-
 <p>🔹 Practicing <b>DSA & LeetCode</b></p>
-
 <p>🔹 Understanding <b>Java Collections</b></p>
-
 <p>🔹 Building better <b>Full-Stack projects</b></p>
-
 <p>🔹 Learning through <b>hackathons & projects</b></p>
 
 <hr>
@@ -175,35 +165,21 @@ DSA with Java
 <h2>🏅 Highlights</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/BuildX_Hackathon-1st_Runner--Up-7C5CFC?style=for-the-badge" alt="BuildX Hackathon">
-
-<img src="https://img.shields.io/badge/CGPA-8.91-5B8DEF?style=for-the-badge" alt="CGPA">
-
-<img src="https://img.shields.io/badge/Java-DSA-6C63FF?style=for-the-badge&logo=java&logoColor=white" alt="Java DSA">
-
-<img src="https://img.shields.io/badge/Full--Stack-Development-8A63D2?style=for-the-badge" alt="Full Stack Development">
-
+  🏆 <b>BuildX Hackathon — 1st Runner-Up</b>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  📚 <b>CGPA — 8.91</b>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  💻 <b>Java + DSA</b>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  🌐 <b>Full-Stack Development</b>
 </p>
 
 <hr>
 
-<h2>📊 GitHub Analytics</h2>
+<h2>📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiis07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiis07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<hr>
-
-<h2>📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiis07&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
+  <b>💻 Java &nbsp; | &nbsp; 🧠 DSA &nbsp; | &nbsp; 🌐 Full-Stack &nbsp; | &nbsp; 🚀 Projects</b>
 </p>
 
 <hr>
