@@ -68,10 +68,6 @@ A simple productivity application designed to manage and organize daily tasks.
 
 🏅 **1st Runner-Up — BuildX Hackathon 2026**
 
-🥇 **National-Level Shot Put Player**
-
-🏆 **State-Level Shot Put Champion**
-
 📚 **CGPA: 8.91**
 
 ---
