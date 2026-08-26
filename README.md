@@ -94,7 +94,7 @@ teams, submissions, skills and collaboration.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🩺 Mediflux</h3>
+<h3>🩺  <a href="https://github.com/Krish-07sus/mediflux-ai"> Mediflux</h3>
 
 <p>
 Offline AI health-risk prediction project built with Python,
