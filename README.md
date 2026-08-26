@@ -44,11 +44,12 @@ I'm a Computer Science Engineering student who enjoys building things, solving p
 <h3>🌐 Development</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML">
-<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS">
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
 </p>
 
 <h3>🛠️ Tools</h3>
@@ -165,29 +166,26 @@ DSA with Java
 
 <h2>📊 GitHub Analytics</h2>
 
+<h2>📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditiis07&theme=tokyonight" alt="GitHub Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditiis07&theme=tokyonight" loading="lazy" alt="GitHub Profile Summary">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditiis07&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditiis07&theme=tokyonight" alt="Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditiis07&theme=tokyonight" loading="lazy" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditiis07&theme=tokyonight" loading="lazy" alt="Languages">
 </p>
-
 <hr>
 
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github.com/aditiis07/aditiis07/blob/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Activity"
-    width="95%"
-  >
+ <img src="https://raw.githubusercontent.com/aditiis07/aditiis07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Activity" width="95%">
 </p>
 
 
-<h2>🌐 Let's Connect</h2>
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
 
