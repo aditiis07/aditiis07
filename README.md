@@ -81,7 +81,7 @@ Developed with Team Nexora for the BuildX Hackathon 2026.
 
 <td width="50%" valign="top">
 
-<h3>🤝 Milaap</h3>
+<h3>🤝 <a href="https://github.com/sharma15isha/Milaap">Milaap</h3>
 
 <p>
 Full-stack student innovation platform focused on events,
