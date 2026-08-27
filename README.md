@@ -178,7 +178,7 @@ DSA with Java
 </p>
 <hr>
 
-<h2>📈 Contribution Activity</h2>
+<h2>📈 Contribution Activity </h2>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/aditiis07/aditiis07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Activity" width="95%">
